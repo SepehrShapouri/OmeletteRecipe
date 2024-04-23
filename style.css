@@ -33,7 +33,7 @@
 }
 body {
   background-color: var(--Eggshell);
-  padding: 5rem 0;
+  padding: 7rem 0;
 }
 .container {
   margin: auto;
@@ -131,7 +131,7 @@ body {
   border-bottom: none;
 }
 .nutrition-td {
-  color: var(--DarkRaspberry);
+  color: var(--Nutmeg);
   font-family: outfit-semiBold;
 }
 
